@@ -1,4 +1,4 @@
-# PowerAutomate-MicrosoftTeamsBufferTime
+# Power Automate - Microsoft Teams Buffer Time
 Want some time to breathe after your back to back meetings?
 
 ## General
