@@ -2,7 +2,7 @@
 Want some time to breathe after your back to back meetings?
 
 ## General
-This Power Automate flow doesn't end meetings early like the [standard feature of Outlook](https://support.microsoft.com/en-us/office/schedule-a-meeting-with-other-people-5c9877bc-ab91-4a7c-99fb-b0b68d7ea94f). This solution will automatically create a new appointment in your Office 365 calendarwith the desired duration after eacht Microsoft Teams meeting.
+This Power Automate flow doesn't end meetings early like the [standard feature of Outlook](https://support.microsoft.com/en-us/office/schedule-a-meeting-with-other-people-5c9877bc-ab91-4a7c-99fb-b0b68d7ea94f). The solution will automatically create a new appointment in your Office 365 calendarwith the desired duration after eacht Microsoft Teams meeting.
 
 _The flow will only be triggerd for Microsoft Teams meetings._
 
